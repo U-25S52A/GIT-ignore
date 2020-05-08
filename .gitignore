@@ -1,5 +1,5 @@
 # ignores specific files
-file1.txt 
+file.txt 
 
 # ignores files inside a directory (folder) 
 bin/
