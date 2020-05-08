@@ -1,7 +1,9 @@
-# ignoring specific files
+# ignores specific files
 file1.txt 
 file2.txt
-# ignoring files inside a directory (folder) 
+
+# ignores files inside a directory (folder) 
 bin/
-# ignoring temporary files
+
+# ignores files that are temporary
 *.tmp
