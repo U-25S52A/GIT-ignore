@@ -1,6 +1,6 @@
 # ignores specific files
-file1.txt 
-file2.txt
+file-one.txt 
+file-two.txt
 
 # ignores files inside a directory (folder) 
 bin/
